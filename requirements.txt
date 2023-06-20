@@ -28,7 +28,7 @@ MarkupSafe==2.1.1
 mpmath==1.3.0
 networkx==3.1
 numba==0.57.0
-numpy==1.24.1
+numpy==1.24
 onnxruntime==1.15.1
 opencv-python-headless==4.7.0.72
 openpyxl==3.1.2
